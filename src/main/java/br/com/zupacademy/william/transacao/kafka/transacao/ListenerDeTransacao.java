@@ -1,4 +1,4 @@
-package br.com.zupacademy.william.transacao;
+package br.com.zupacademy.william.transacao.kafka.transacao;
 
 import br.com.zupacademy.william.transacao.compra.Compra;
 import br.com.zupacademy.william.transacao.compra.CompraRepository;

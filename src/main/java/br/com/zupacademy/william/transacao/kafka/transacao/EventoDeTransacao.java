@@ -1,4 +1,6 @@
-package br.com.zupacademy.william.transacao;
+package br.com.zupacademy.william.transacao.kafka.transacao;
+
+import br.com.zupacademy.william.transacao.kafka.transacao.cartao.Cartao;
 
 import java.math.BigDecimal;
 import java.time.LocalDateTime;

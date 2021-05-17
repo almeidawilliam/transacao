@@ -1,4 +1,4 @@
-package br.com.zupacademy.william.transacao;
+package br.com.zupacademy.william.transacao.kafka.transacao.cartao;
 
 public class Cartao {
 
